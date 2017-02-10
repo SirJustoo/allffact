@@ -75,5 +75,5 @@ $mtable[]=$x. " X ".$multicand." = ".$x*$multicand;
 } 
 } 
 return $mtable; 
-} 
-?>https://github.com/SirJustoo/factwtf/blob/master/calculator.html,
+}
+?>
